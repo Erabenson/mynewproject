@@ -5,6 +5,6 @@
 	<h2>
 	wow!!!!!!
 <h2> I love this webpage
-	<h2> bgcolor=#FFBD33
+	<h> Hello My people!!!!
 </body>
 </html>
